@@ -1,0 +1,12 @@
+/.nb-gradle/
+.idea/
+/build/
+/.gradle/
+
+# native code
+/src/main/resources/eu/mihosoft/appx/appxdist/linux/
+/src/main/resources/eu/mihosoft/appx/appxdist/osx/
+/src/main/resources/eu/mihosoft/appx/appxdist/windows/
+
+# build info
+/src/main/java/eu/mihosoft/appx/appxdist/BuildInfo.java
