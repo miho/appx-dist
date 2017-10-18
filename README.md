@@ -48,7 +48,7 @@ Distributions are are packaged as `appx.zip`. The locations for distributions ar
         └── resources
             └── eu
                 └── mihosoft
-                    └── appx
+                    └── vappx
                         └── appxdist
                             ├── linux
                             │   |── x64
