@@ -4,9 +4,10 @@
 /.gradle/
 
 # native code
-/src/main/resources/eu/mihosoft/appx/appxdist/linux/
-/src/main/resources/eu/mihosoft/appx/appxdist/osx/
-/src/main/resources/eu/mihosoft/appx/appxdist/windows/
+/src/main/resources/eu/mihosoft/vappx/appxdist/linux/
+/src/main/resources/eu/mihosoft/vappx/appxdist/osx/
+/src/main/resources/eu/mihosoft/vappx/appxdist/windows/
 
 # build info
-/src/main/java/eu/mihosoft/appx/appxdist/BuildInfo.java
+/src/main/java/eu/mihosoft/vappx/appxdist/BuildInfo.java
+
