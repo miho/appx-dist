@@ -2,7 +2,7 @@
 
 [ ![Download](https://api.bintray.com/packages/miho/UG/ugshell-dist/images/download.svg) ](https://bintray.com/miho/Appx/appx-dist/_latestVersion)
 
-Bintray distribution infrastructure for the appx utility by Facebook
+Bintray distribution infrastructure & Java wrapper for the [appx utility](https://github.com/miho/fb-util-for-appx).
 
 ## How to Build appx-dist
 
